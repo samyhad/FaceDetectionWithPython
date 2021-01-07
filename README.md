@@ -20,7 +20,7 @@ You should be Anaconda installed in your computer
 
 <li>Run this command in your anaconda prompt</li>
 
-    $ conda create --name face-detection python=3.7
+    $ conda create --name face-detection python=2.7
 
 <li>Activate your enviropment</li>
 
