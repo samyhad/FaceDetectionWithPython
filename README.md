@@ -5,6 +5,7 @@ This is the repository for a face detection project with Python. It was based on
 # Usage
 
 This program can recognize human face shape in an image, for example:
+
 ![Face detection example](https://github.com/samyhad/FaceDetectionWithPython/blob/main/output.png?raw=true)
 
 # Prerequirements
