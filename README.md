@@ -6,6 +6,10 @@ This is the repository for a face detection project with Python. It was based on
 
 You should be Anaconda installed in your computer
 
+# Usage
+This program can recognize human face shape in an image, for example:
+![Face detection example]
+
 ## How to setup your enviropment?
 <ol>
 <li>Clone the repo</li>
@@ -34,3 +38,4 @@ You should be Anaconda installed in your computer
 
     $ conda install -c menpo opencv3
 </ol>
+
