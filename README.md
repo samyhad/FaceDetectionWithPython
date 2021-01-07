@@ -2,13 +2,14 @@
 
 This is the repository for a face detection project with Python. It was based on the project presented in the Traditional Face Detection course with Python offered by Real Python ([https://realpython.com/courses/traditional-face-detection-python/](https://realpython.com/courses/traditional-face-detection-python/))
 
+# Usage
+
+This program can recognize human face shape in an image, for example:
+![Face detection example](https://github.com/samyhad/FaceDetectionWithPython/blob/main/output.png?raw=true)
+
 # Prerequirements
 
 You should be Anaconda installed in your computer
-
-# Usage
-This program can recognize human face shape in an image, for example:
-![Face detection example]
 
 ## How to setup your enviropment?
 <ol>
